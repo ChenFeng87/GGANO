@@ -4,7 +4,7 @@ We have annotated the code in detail to help the reader understand the code.
 
 ## Take the synthetic ten-dimensional model to illustrate the basic idea of GGANO
 
-There are 13 files under this file, including 
+There are 14 files under this file, including 
 
 5 python code files: `Data_preparation.py`, `Calculate_thro.py`, `train.py`, `prediction.py`, `train_compare.py` and `prediction_compare.py`;
 
